@@ -1,0 +1,22 @@
+{
+  "name": "exp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "dependencies": {
+    "drizzle-kit": "^0.31.4",
+    "drizzle-orm": "^0.44.3",
+    "zod": "^4.0.10"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.1.2",
+    "ultracite": "5.0.49"
+  }
+}
